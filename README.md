@@ -1,4 +1,4 @@
-# The Final Project of Basic Algorithms and Programming Course
+# Employee Salary
 
 Program to calculate employee salaries in Go language, wherein the program we can do:
 - Enter new employee data
